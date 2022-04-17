@@ -1,2 +1,2 @@
-# Sprinkles-Game-JavaScript
+# sandbox-html-complete
 Created with CodeSandbox
